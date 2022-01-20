@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ayush Siloiya
-- 👀 I’m interested in Web designing and Android development.
-- 🌱 I’m currently learning Android development.
+- 👀 I’m interested in Web designing and Python development.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Web development and web designing .
