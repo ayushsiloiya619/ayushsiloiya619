@@ -5,4 +5,4 @@
 <br><br>
 <B><i> Visit my new Photographic Website! </i></B><a href="https://ayushsiloiya619.github.io/Martisphotography/">Martis Photography</a><br><br>
 <img src="https://www.smallbiztechnology.com/wp-content/uploads/2019/10/20-motivational-quotes-from-technology-leaders-1280x640.jpg" width="55%" align="left">
-<img src="https://github.com/ayushsiloiya619/Portfolio/blob/main/Extra%20essential/NUX_Octodex.gif" width="40%" align="right">
+<img src="https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/NUX_Octodex.gif" width="40%" align="right">
