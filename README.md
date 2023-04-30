@@ -1,3 +1,4 @@
+![logo](https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/ayush.png)
 - 👋 Hi, I’m <h3><a href="https://ayushsiloiya.me/">Ayush Siloiya </a> </h3>
 - 👀 I’m interested in <B> Coding and learning. </B>
 - 🌱 I’m currently learning <b> Data Structures and Algorithms. </b>
