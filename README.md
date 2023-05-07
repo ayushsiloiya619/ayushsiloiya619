@@ -7,3 +7,7 @@
 <B><i> Have a look ---></i></B><a href="https://ayushsiloiya619.github.io/Martisphotography/">Martis Photography 2.0</a><br><br>
 <img src="https://wallpaperaccess.com/full/1338383.jpg" width="50%" align="left">
 <img src="https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/NUX_Octodex.gif" width="35%" align="right">
+<!-
+https://octodex.github.com/images/hula_loop_octodex03.gif
+https://octodex.github.com/images/gobbleotron.gif
+->
