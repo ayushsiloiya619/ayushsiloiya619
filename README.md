@@ -1,5 +1,5 @@
 ![logo](https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/ayush.png)
-<h1 align="center">Hi 👋, I'm <a href="https://ayushsiloiya.me/">Ayush Siloiya</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://ayushsiloiya619.github.io/">Ayush Siloiya</a></h1>
 <h3 align="center">As a data-driven, front-end developer with expertise in UI/UX design and web development, I am passionate about leveraging my skills to tackle real-world problems. I am excited to contribute my knowledge and experience to a dynamic and innovative organization.</h3>
 
 - 🌱 I’m currently learning **C++ & Python**
@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://ayushsiloiya.me/](https://ayushsiloiya.me/)
+- 👨‍💻 All of my projects are available at [https://ayushsiloiya619.github.io/](https://ayushsiloiya619.github.io/)
 
 - 📝 I regularly write articles on [https://ayushblogsera.blogspot.com/](https://ayushblogsera.blogspot.com/)
 
