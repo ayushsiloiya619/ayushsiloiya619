@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++ & Python**
 
-- 👯 I’m looking to collaborate on **UI/UX Designs**
+- 👯 I’m looking to collaborate on **UI/UX Designs & Data Analytics**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm**
 
