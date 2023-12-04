@@ -1,6 +1,6 @@
 ![logo](https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/ayush.png)
 <h1 align="center">Hi 👋, I'm <a href="https://ayushsiloiya619.github.io/">Ayush Siloiya</a></h1>
-<h3 align="center">As a data-driven, front-end developer with expertise in UI/UX design and web development, I am passionate about leveraging my skills to tackle real-world problems. I am excited to contribute my knowledge and experience to a dynamic and innovative organization.</h3>
+<h3 align="center">I am a highly organized professional who can prioritize and manage multiple projects simultaneously. As a creative problem-solver passionate about helping businesses achieve their goals, I am also deeply interested in data analysis. I enjoy uncovering insights from data and using them to drive data-driven decisions. Additionally, as a motivated web developer, I love building visually stunning and user-friendly websites that provide seamless experiences for users. With my skills in HTML, CSS, and JavaScript and my understanding of design principles, I can craft beautiful designs that captivate audiences. I am always eager to learn and apply the latest UI/UX trends to create exceptional user experiences. Let's collaborate to build functional, visually appealing, and user-centric websites while leveraging data analysis to inform decision-making! #DataAnalysis #UIUXDesigner #WebDeveloper #DesignEnthusiast #CreativeProblemSolver #UserExperience #UserInterface</h3>
 
 - 🌱 I’m currently learning **C++ & Python**
 
