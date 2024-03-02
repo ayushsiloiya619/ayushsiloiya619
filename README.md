@@ -1,12 +1,14 @@
 ![logo](https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/ayush.png)
 <h1 align="center">Hi 👋, I'm <a href="https://ayushsiloiya619.github.io/">Ayush Siloiya</a></h1>
-<h3 align="center">I am a highly organized professional adept at prioritizing and managing multiple projects concurrently. As a creative problem-solver driven by the passion to help businesses achieve their goals, I have a keen interest in data analysis. Uncovering insights from data and utilizing them to drive informed decisions is my forte.
+<h3 align="center">I am a very well-organized professional that can manage several projects at once and set priorities. I'm a creative problem-solver that is passionate about assisting companies in reaching their objectives, so I have a strong interest in data analysis. My speciality is extracting insights from data and applying them to make wise judgements.<br>
 
-In addition to my analytical skills, I am a motivated web developer who takes pride in building visually stunning and user-friendly websites that offer seamless experiences. Proficient in HTML, CSS, and JavaScript, combined with a solid understanding of design principles, I specialize in crafting beautiful designs that captivate audiences.
+I am a driven web developer who takes delight in creating aesthetically beautiful, user-friendly websites that provide seamless experiences, in addition to my analytical abilities. With a strong grasp of design principles and proficiency in HTML, CSS, and JavaScript, my area of expertise is creating visually stunning designs that engage viewers.
 
+My dedication to crafting outstanding user experiences stems from my constant desire to learn new things and keep up with the most recent UI/UX trends. Together, let's create a visually appealing and functional
 Always eager to learn and stay current with the latest UI/UX trends, I am committed to creating exceptional user experiences. Let's collaborate to build functional, visually appealing, and user-centric websites, all while leveraging the power of data analysis to inform decision-making!
 
-#DataAnalysis #UIUXDesigner #WebDeveloper #DesignEnthusiast #CreativeProblemSolver #UserExperience #UserInterface</h3>
+#DataAnalysis #UIUXDesigner #WebDeveloper #DesignEnthusiast #CreativeProblemSolver #UserExperience #UserInterface
+</h3>
 
 - 🌱 I’m currently learning **C++ & Python**
 
