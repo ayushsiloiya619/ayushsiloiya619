@@ -1,14 +1,22 @@
 ![logo](https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/ayush.png)
 <h1 align="center">Hi 👋, I'm <a href="https://ayushsiloiya619.github.io/">Ayush Siloiya</a></h1>
-<h3 align="center">I am a very well-organized professional that can manage several projects at once and set priorities. I'm a creative problem-solver that is passionate about assisting companies in reaching their objectives, so I have a strong interest in data analysis. My speciality is extracting insights from data and applying them to make wise judgements.<br>
-
-I am a driven web developer who takes delight in creating aesthetically beautiful, user-friendly websites that provide seamless experiences, in addition to my analytical abilities. With a strong grasp of design principles and proficiency in HTML, CSS, and JavaScript, my area of expertise is creating visually stunning designs that engage viewers.
-
-My dedication to crafting outstanding user experiences stems from my constant desire to learn new things and keep up with the most recent UI/UX trends. Together, let's create a visually appealing and functional
-Always eager to learn and stay current with the latest UI/UX trends, I am committed to creating exceptional user experiences. Let's collaborate to build functional, visually appealing, and user-centric websites, all while leveraging the power of data analysis to inform decision-making!
-
-#DataAnalysis #UIUXDesigner #WebDeveloper #DesignEnthusiast #CreativeProblemSolver #UserExperience #UserInterface
+<h3 align="center">
+  Data Analyst & Web Developer | Python, SQL, UI/UX Design <br>
+  Passionate about turning data into insights and creating seamless user experiences
 </h3>
+
+<p align="center">
+  As a tech-savvy professional with a strong foundation in data analysis and web development, 
+  I bring a unique blend of analytical thinking and creative problem-solving to the table. 
+  My experience spans internships at industry leaders like Schneider Electric and Palo Alto Networks, 
+  where I honed my skills in network security, data protection, and data-driven decision-making. 
+  With hands-on experience in Python, SQL, and various data analysis tools, I am well-equipped to tackle 
+  complex challenges and deliver actionable insights. I am also a web developer who takes pride in 
+  crafting visually stunning and user-friendly websites, ensuring exceptional user experiences through 
+  a deep understanding of UI/UX principles. Always eager to learn and adapt, I am committed to staying 
+  ahead of industry trends and continuously improving my skill set.
+</p>
+
 
 - 🌱 I’m currently learning **C++ & Python**
 
