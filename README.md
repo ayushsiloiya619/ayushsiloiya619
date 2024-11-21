@@ -20,7 +20,7 @@ As a data-driven professional, I bring expertise in data analysis, engineering, 
 
 - 📝 I regularly write articles on [https://ayushblogsera.blogspot.com/](https://ayushblogsera.blogspot.com/)
 
-- 💬 Ask me about **Front-end,UI/UX Design,Data Analysis & Visualisation.**
+- 💬 Ask me about **Data Analysis , Data Visualisation  & Data Engineering.**
 
 - 📫 How to reach me **ayushsiloiya@gmail.com**
 
