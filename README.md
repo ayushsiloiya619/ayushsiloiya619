@@ -1,4 +1,4 @@
-![logo](https://github.com/ayushsiloiya619/ayushsiloiya619/blob/main/ayush.png)
+![logo](https://github.com/ayushsiloiya619/ayushsiloiya619.github.io/blob/main/images/GitHub_Bio.png)
 <h1 align="center">Hi 👋, I'm <a href="https://ayushsiloiya619.github.io/">Ayush Siloiya</a></h1>
 <h3 align="center">
  Data Analyst & Visualization Expert | Python & C++ Specialist | <br>
