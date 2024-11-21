@@ -10,11 +10,10 @@ As a data-driven professional, I bring expertise in data analysis, engineering, 
 </p>
 
 
-- 🌱 I’m currently learning **C++ & Python**
-
-- 👯 I’m looking to collaborate on *Data Analytics & Data Engineering Projects**
-
-- 🤝 I’m looking for help with **Data Structures and Algorithm**
+- 🌱 I’m currently deepening my knowledge in **C++ and Python**, focusing on their applications in data structures, algorithms, and data-driven solutions.
+- 💡 I’m skilled in **Python, SQL, and Data Analysis** and have hands-on experience with tools like Pandas, Numpy, and Matplotlib.  
+- 🚀 I’m exploring opportunities in **Data Engineering, Data Analytics**, and **open-source contributions** to expand my expertise.  
+- 🔍 Actively looking to collaborate on **data-driven projects** and contribute to impactful open-source initiatives.  
 
 - 👨‍💻 All of my projects are available at [https://ayushsiloiya619.github.io/](https://ayushsiloiya619.github.io/)
 
