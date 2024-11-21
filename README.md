@@ -12,7 +12,7 @@ As a data-driven professional, I bring expertise in data analysis, engineering, 
 
 - 🌱 I’m currently learning **C++ & Python**
 
-- 👯 I’m looking to collaborate on **UI/UX Designs & Data Analytics**
+- 👯 I’m looking to collaborate on *Data Analytics & Data Engineering Projects**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm**
 
