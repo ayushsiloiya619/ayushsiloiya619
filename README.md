@@ -5,7 +5,7 @@
 
 <p align="center">
 ✨ Passionate about building scalable data pipelines, designing cloud-native architectures, and delivering analytics that power real business decisions.  
-With hands-on experience in **Data Engineering, Analytics, and Visualization**, I love solving complex data problems with clean, efficient code.  
+With hands-on experience in Data Engineering, Analytics, and Visualization, I love solving complex data problems with clean, efficient code.  
 </p>
 
 ---
